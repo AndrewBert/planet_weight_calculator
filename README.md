@@ -1,6 +1,6 @@
 # Planet Weight Calculator
 
-Calculate your weight on other planets!
+Calculate your weight on other planets with this Mobile App!
 
 ## Getting Started
 
