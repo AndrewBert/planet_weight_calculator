@@ -1,6 +1,6 @@
-# assignment_4
+# Planet Weight Calculator
 
-A new Flutter application.
+Calculate your weight on other planets!
 
 ## Getting Started
 
